@@ -28,7 +28,7 @@ Tizen .NET provides a rich set of interfaces allowing you to build compelling TV
         </a>
     </div>
     <div class="col col-6 col-xl-3">
-        <a href="https://samsung.github.io/Tizen.CircularUI/index.html" class="card card-infra h-100">
+        <a href="./Tizen.CircularUI/index.html" class="card card-infra h-100">
             <div class="card-body">
                 <p class="h3 card-title">Tizen.Wearable.CircularUI</p>
                 <p class="card-text">Set of extension APIs of Xamarin Forms.</p>
@@ -58,7 +58,7 @@ A list of limitations is available at [Xamarin.Forms limitations](xamarin-forms-
 
 ## Tizen.Wearable.CircularUI
 
-[Tizen.Wearable.CircularUI](https://samsung.github.io/Tizen.CircularUI/index.html) provides Tizen wearable-specific user interfaces. It is a set of extension APIs of Xamarin.Forms. Tizen.Wearable.CircularUI APIs are supported only on Tizen wearable devices with Tizen .NET support, unlike the Xamarin.Forms which support cross platforms.
+[Tizen.Wearable.CircularUI](./Tizen.CircularUI/index.html) provides Tizen wearable-specific user interfaces. It is a set of extension APIs of Xamarin.Forms. Tizen.Wearable.CircularUI APIs are supported only on Tizen wearable devices with Tizen .NET support, unlike the Xamarin.Forms which support cross platforms.
 
 Using these APIs, you can easily and efficiently add Tizen wearable-specific user interfaces to your Tizen wearable application. For more information about these APIs, see [Tizen.Wearable.CircularUI GitHub](https://github.com/Samsung/Tizen.CircularUI).
 
