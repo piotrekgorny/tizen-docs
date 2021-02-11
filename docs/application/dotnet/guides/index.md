@@ -65,7 +65,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="account/overview">More</a>
+                <a class="link-standalone" href="account/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -92,7 +92,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="applications/overview">More</a>
+                <a class="link-standalone" href="applications/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -110,7 +110,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="app-management/overview">More</a>
+                <a class="link-standalone" href="app-management/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -125,7 +125,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="data/overview">More</a>
+                <a class="link-standalone" href="data/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -140,7 +140,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="internationalization/overview">More</a>
+                <a class="link-standalone" href="internationalization/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -156,7 +156,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="notification/overview">More</a>
+                <a class="link-standalone" href="notification/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -172,7 +172,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="location/overview">More</a>
+                <a class="link-standalone" href="location/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -187,7 +187,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="machine-learning/overview">More</a>
+                <a class="link-standalone" href="machine-learning/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -202,7 +202,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="maps/maps">More</a>
+                <a class="link-standalone" href="maps/maps">Learn more</a>
             </div>
         </div>
     </div>
@@ -220,7 +220,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="messaging/overview">More</a>
+                <a class="link-standalone" href="messaging/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -238,7 +238,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="multimedia/overview">More</a>
+                <a class="link-standalone" href="multimedia/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -256,7 +256,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="connectivity/overview">More</a>
+                <a class="link-standalone" href="connectivity/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -271,7 +271,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="nlp/overview">More</a>
+                <a class="link-standalone" href="nlp/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -289,7 +289,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="nui/overview">More</a>
+                <a class="link-standalone" href="nui/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -305,7 +305,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="pims/overview">More</a>
+                <a class="link-standalone" href="pims/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -323,7 +323,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="security/overview">More</a>
+                <a class="link-standalone" href="security/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -338,7 +338,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="sensors/overview">More</a>
+                <a class="link-standalone" href="sensors/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -356,7 +356,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="system/overview">More</a>
+                <a class="link-standalone" href="system/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -372,7 +372,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="telephony/">More</a>
+                <a class="link-standalone" href="telephony/">Learn more</a>
             </div>
         </div>
     </div>
@@ -390,7 +390,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 </div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="uix/overview">More</a>
+                <a class="link-standalone" href="uix/overview">Learn more</a>
             </div>
         </div>
     </div>
@@ -401,7 +401,7 @@ Tizen.Wearable.CircularUI supports Tizen wearable-specific user interfaces and T
                 <div class="card-text"></div>
             </div>
             <div class="card-footer">
-                <a class="link-standalone" href="webview/overview">More</a>
+                <a class="link-standalone" href="webview/overview">Learn more</a>
             </div>
         </div>
     </div>
